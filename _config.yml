@@ -27,8 +27,8 @@ author:
   bio              : "Associate Professor in Department of Electrical Engineering and Computer Science"
   employer         : "University of Arkansas"
   location         : "JBHT 526"
-  location         : 227 N Harmon Ave
-  location         : Fayetteville, AR 72701
+                     "227 N Harmon Ave"
+                     "Fayetteville, AR 72701"
   uri              : # URL
   email            : "mqhuang@uark.edu, mqhuang@gmail.com" 
 
