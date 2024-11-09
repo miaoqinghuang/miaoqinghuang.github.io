@@ -21,7 +21,7 @@ repository               : "miaoqinghuang/miaoqinghuang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "HuangMiaoqing.jpg"
   name             : "Miaoqing Huang 黄苗青"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor in Department of Electrical Engineering and Computer Science"
