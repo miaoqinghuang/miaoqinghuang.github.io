@@ -22,9 +22,9 @@ repository               : "miaoqinghuang/miaoqinghuang.github.io"
 author:
   # Biographic information
   avatar           : "HuangMiaoqing.jpg"
-  name             : "Miaoqing Huang 黄苗青"
+  name             : "Miaoqing Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor in Department of Electrical Engineering and Computer Science"
+  bio              : "Associate Professor in EECS"
   location         : "JBHT 526"
   employer         : "University of Arkansas"
   #                   "227 N Harmon Ave" \
