@@ -25,10 +25,10 @@ author:
   name             : "Miaoqing Huang 黄苗青"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor in Department of Electrical Engineering and Computer Science"
+  location         : "JBHT 526"
   employer         : "University of Arkansas"
-  location         : "JBHT 526" \
-                     "227 N Harmon Ave" \
-                     "Fayetteville, AR 72701"
+  #                   "227 N Harmon Ave" \
+  #                   "Fayetteville, AR 72701"
   uri              : # URL
   email            : "mqhuang@uark.edu, mqhuang@gmail.com" 
 
