@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Homepage"
+title: "Miaoqing Huang"
 author_profile: true
 redirect_from: 
   - /about/
