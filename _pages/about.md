@@ -11,8 +11,7 @@ I am an associate professor in the Department of Electrical Engineering and Comp
 
 I received my PhD degree in Computer Engineering from The George Washington University and my BS degree in Electrical Engineering from Fudan University.
 
-Email: mqhuang@uark.edu or mqhuang@gmail.com
-Phone: (479) 575-7578
+Email: mqhuang@uark.edu or mqhuang@gmail.com; Phone: (479) 575-7578
 
 Research Interests
 ======
