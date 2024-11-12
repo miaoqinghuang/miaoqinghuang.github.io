@@ -13,7 +13,7 @@ I received my PhD degree in Computer Engineering from The George Washington Univ
 
 **Email**: mqhuang@uark.edu or mqhuang@gmail.com; **Phone**: (479) 575-7578; **Office**: JBHT 526
 
-**Mail address**: 227 N Harmon Ave, JBHT 504, Fayetteville, Arkansas 72701, USA 
+**Mail Address**: 227 N Harmon Ave, JBHT 504, Fayetteville, Arkansas 72701, USA 
 
 Research Interests
 ======
