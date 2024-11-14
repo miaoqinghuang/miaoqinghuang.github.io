@@ -10,11 +10,7 @@ location: "Fayetteville, Arkansas, USA"
 
 CSCE22104 Computer Organization
 
-Heading 1
+Computer Organization
 ======
+An entry level undergraduate course teaching the assembly language, a simple processor architecture, and the memory system.
 
-Heading 2
-======
-
-Heading 3
-======
