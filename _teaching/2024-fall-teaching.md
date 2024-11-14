@@ -1,7 +1,6 @@
 ---
 title: "2024 Fall"
 collection: teaching
-type: "Undergraduate/graduate course"
 permalink: /teaching/2024-fall-teaching
 venue: "EECS Department, University of Arkansas"
 date: 2024-08-15
