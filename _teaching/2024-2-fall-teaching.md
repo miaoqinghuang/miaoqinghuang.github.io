@@ -1,5 +1,5 @@
 ---
-title: "2024 Fall"
+title: "2024-2 Fall"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2024-2-fall-teaching
