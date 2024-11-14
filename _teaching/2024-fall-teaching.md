@@ -2,10 +2,10 @@
 title: "2024 Fall"
 collection: teaching
 type: "Undergraduate/graduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/2024-fall-teaching
+venue: "EECS Department, University of Arkansas"
 date: 2024-08-15
-location: "City, Country"
+location: "Fayetteville, Arkansas, USA"
 ---
 
 CSCE47803/57803 Cloud Computing and Security
