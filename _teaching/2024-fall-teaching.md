@@ -1,8 +1,10 @@
 ---
 title: "2024 Fall"
 collection: teaching
+type: Lecture
 permalink: /teaching/2024-fall-teaching
 venue: "EECS Department, University of Arkansas"
+date: 2024
 location: "Fayetteville, Arkansas, USA"
 ---
 
