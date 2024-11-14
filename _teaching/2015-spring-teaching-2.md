@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "2025 Spring"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecture"
+permalink: /teaching/2025-spring-teaching
+venue: "EECS Department, University of Arkansas"
+date: 2025-01-01
+location: "Fayetteville, Arkansas, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+CSCE22104 Computer Organization
 
 Heading 1
 ======
