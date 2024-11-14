@@ -8,7 +8,8 @@ date: 2024-01-01
 location: "Fayetteville, Arkansas, USA"
 ---
 
-**Spring**: CSCE5843 Reconfigurable Computing; **Fall**: CSCE47803/57803 Cloud Computing and Security.
+**Spring**: CSCE5843 Reconfigurable Computing
+**Fall**: CSCE47803/57803 Cloud Computing and Security
 
 Reconfigurable Computing
 ======
