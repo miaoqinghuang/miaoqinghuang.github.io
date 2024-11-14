@@ -2,7 +2,7 @@
 title: "2024 Fall"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2024-fall-teaching
+permalink: /teaching/2024-2-fall-teaching
 venue: "EECS Department, University of Arkansas"
 date: 2024-01-01
 location: "Fayetteville, Arkansas, USA"
