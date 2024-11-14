@@ -1,8 +1,10 @@
 ---
 title: "2025 Spring"
 collection: teaching
+type: Lecture
 permalink: /teaching/2025-spring-teaching
 venue: "EECS Department, University of Arkansas"
+date: 2025
 location: "Fayetteville, Arkansas, USA"
 ---
 
