@@ -1,14 +1,14 @@
 ---
-title: "2025 Spring"
+title: "2025"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2025-1-spring-teaching
+permalink: /teaching/2025-teaching
 venue: "EECS Department, University of Arkansas"
 date: 2025-01-01
 location: "Fayetteville, Arkansas, USA"
 ---
 
-CSCE22104 Computer Organization
+**Spring**: CSCE22104 Computer Organization
 
 Computer Organization
 ======
