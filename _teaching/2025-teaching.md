@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "Fayetteville, Arkansas, USA"
 ---
 
-**Spring**: CSCE22104 Computer Organization
+**Spring**: CSCE22104 Computer Organization\
 **Fall**: CSCE47803/57803 Cloud Computing and Security
 
 Computer Organization
